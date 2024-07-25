@@ -1,6 +1,11 @@
 # backslash
-このキーボードは[ナズナ](https://twitter.com/naznaz_inv)(作成者)が設計した40%キーボードです。  
-**現在設計中のキーボードであり、製造上のリスク、設計上の欠陥が多くある可能性があります。ご注意ください。**
+このキーボードは[ナズナ](https://twitter.com/naznaz_inv)(作成者)が設計した40%(42 key)キーボードです。  
+
+</td><img src="https://github.com/user-attachments/assets/e6ecf897-62fb-44dd-b920-53c6619f82d0" width="400" alihgn="center"></td>
+
+<p><img src="https://github.com/user-attachments/assets/f454d8f7-67c3-4edc-9e94-6e6d63f783e0" width="200">
+<img src="https://github.com/user-attachments/assets/73841214-0700-4215-aec0-4a3a297e9126" width="200"></p>
+
 
 本[README.md](README.md)にはアフェリエイトとかなんかそういうリンクはないので~~安心して~~クリックしてください。
 
@@ -14,9 +19,19 @@
 
 ## 必要なもの
 
+- [RP2040 Zero](https://www.switch-science.com/products/7886) * 1 pcs
+- [Kailh MX Switch Socket](https://shop.yushakobo.jp/products/a01ps) * 42 pcs
+- [M2 低頭ねじ 12 mm](https://www.amazon.co.jp/gp/product/B0B11S2G7M/) * 7 pcs
+- [M2 低頭ねじ 10 mm](https://www.amazon.co.jp/gp/product/B0B11S2G7M/) * 2 pcs
+- [M2 低頭ねじ 8 mm](https://www.amazon.co.jp/gp/product/B0B11S2G7M/) * 2 pcs
 
-## 影響を受けたプロジェクト
+## 影響を受けたキーボード
 
+- [Wooting 60HE+](https://wooting.io/ja/wooting-60he)
+</td><img src="https://github.com/user-attachments/assets/7778cda2-f477-4ce5-beb6-acc8b7f9d055" width="400" alihgn="center"></td>
+
+- [introduction](https://x.com/technotaxis/status/1816420548634923234)
+</td><img src="https://pbs.twimg.com/media/GTU4SqbbwAAsm_V?format=jpg&name=4096x4096" width="400" alihgn="center"></td>
 
 ## ライセンス
 
